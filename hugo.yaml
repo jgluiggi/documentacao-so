@@ -8,7 +8,7 @@ menu:
       url: /
       weight: 1
     - name: "<u>T</u>ags"
-      url: "https://jgluiggi.github.io/tags/"
+      url: "https://jgluiggi.github.io/documentacao-so/tags/"
       weight: 3
 
 params:
